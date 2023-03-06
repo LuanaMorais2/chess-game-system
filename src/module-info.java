@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Luana
- *
- */
-module SistemaJogoXadrex {
-}
